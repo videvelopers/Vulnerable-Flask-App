@@ -1,6 +1,6 @@
 # Vulnerable Flask App
 
-## Salman-sk@v.i. developers
+## Salman-sk v.i. developers
 
 
 ## Description
@@ -10,27 +10,27 @@ Vulnerabilities
 
 ### This application contains the following vulnerabilities:
 
--HTML Injection
+- HTML Injection
 
--XSS
+- XSS
 
--SSTI
+- SSTI
 
--SQL Injection
+- SQL Injection
 
--Information Disclosure
+- Information Disclosure
 
--Command Injection
+- Command Injection
 
--Brute Force
+- Brute Force
 
--Deserialization
+- Deserialization
 
--Broken Authentication
+- Broken Authentication
 
--DOS
+- DOS
 
--File Upload
+- File Upload
 
 ### Requirements
 

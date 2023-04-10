@@ -41,7 +41,7 @@ To run the application, you will need to have Python 3 installed on your machine
 ### Linux
 
 1. Clone this repository to your local machine.
-git clone https://github.com/<username>/Vulnerable-Flask-App.git
+git clone https://github.com/videvelopers/Vulnerable-Flask-App.git
 2. Navigate to the cloned directory.
 cd Vulnerable-Flask-App
 3. Run the Flask application.
@@ -49,7 +49,7 @@ cd Vulnerable-Flask-App
 ### Windows
 
 1. Clone this repository to your local machine.
-git clone https://github.com/<username>/Vulnerable-Flask-App.git
+git clone https://github.com/videvelopers/Vulnerable-Flask-App.git
 2. Navigate to the cloned directory.
 cd Vulnerable-Flask-App
 3. Run the Flask application.
